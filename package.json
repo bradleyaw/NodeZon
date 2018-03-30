@@ -1,0 +1,26 @@
+{
+  "name": "nodezon",
+  "version": "1.0.0",
+  "description": "Welcome to the worlds greatest online retailer. Node.js and MySQL",
+  "main": "server.js",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyaw/NodeZon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyaw/NodeZon/issues"
+  },
+  "homepage": "https://github.com/bradleyaw/NodeZon#readme"
+}
